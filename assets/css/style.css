@@ -1,0 +1,93 @@
+.problema1 {
+  text-align: center;
+  margin: 20px;
+
+}
+
+img {
+    cursor: pointer;
+  }
+
+  
+  input[type="number"] {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    
+    button {
+        display: block;
+        margin-top: 10px;
+    }
+    
+    .problema2, .problema3 {
+        margin-top: 20px;
+    }
+body {
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+} 
+  
+.problema2 {
+    text-align: center; 
+  }
+  
+  .sticker-container {
+    display: inline-block; 
+    margin: 0 15px; 
+    text-align: center; 
+  }
+  
+  .sticker-container img {
+    display: block; 
+    margin: 0 auto; 
+    width: 100px; 
+    height: auto; 
+  }
+  
+  .sticker-container input {
+    display: block; 
+    margin: 10px auto; 
+    width: 60%; 
+  }
+  
+  #calculate {
+    display: block; 
+    margin: 20px auto; 
+    padding: 10px 20px; 
+  }
+  
+  #stickerResult {
+    margin-top: 20px; 
+  }
+
+  #stickerResult {
+    width: 100%; 
+    margin-top: 20px;
+  }
+  
+  #calculate {
+    
+    margin: 20px auto; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+  }
+  
+  #checkPassword {
+    display: block; 
+    margin: 20px auto; 
+    padding: 10px 20px; 
+    border-radius: 10px;
+}
+
+ .problema3 {
+    border: solid 1px grey;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-left: 180px;
+    margin-right: 180px;
+ } 
+#select1,#select2,#select3 {
+    padding: 5px;
+    background-color: rgb(227, 222, 222);
+    border-radius: 5px;
+}
